@@ -1,0 +1,5 @@
+.prettierrc.js
+.eslintrc.js
+commitlint.config.js
+tsconfig.json
+package.json

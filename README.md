@@ -1,2 +1,11 @@
 # nft-server-demo
-This is an nft aggregation service
+
+## Get Started
+
+### Local Dev
+
+```bash
+$ yarn install
+$ yarn dev
+$ open http://localhost:8001
+```
