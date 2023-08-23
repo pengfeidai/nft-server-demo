@@ -4,6 +4,6 @@ import { Controller, Get } from '@midwayjs/decorator';
 export class HomeController {
   @Get('/health')
   async health(): Promise<string> {
-    return 'hello, chat-bot!';
+    return 'hello, Midwayjs!';
   }
 }
